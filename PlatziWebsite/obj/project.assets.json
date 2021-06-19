@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectUniqueName": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\PlatziWebsite.csproj",
       "projectName": "PlatziWebsite",
-      "projectPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\PlatziWebsite\\PlatziWebsite.csproj",
+      "projectPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\PlatziWebsite.csproj",
       "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-      "outputPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\PlatziWebsite\\obj\\",
+      "outputPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
