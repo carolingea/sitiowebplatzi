@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\PlatziWebsite.csproj": {}
+    "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebSite\\PlatziWebsite.csproj": {}
   },
   "projects": {
-    "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\PlatziWebsite.csproj": {
+    "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebSite\\PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectUniqueName": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebSite\\PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\PlatziWebsite.csproj",
+        "projectPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebSite\\PlatziWebsite.csproj",
         "packagesPath": "C:\\Users\\carol\\.nuget\\packages\\",
-        "outputPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebsite\\obj\\",
+        "outputPath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
