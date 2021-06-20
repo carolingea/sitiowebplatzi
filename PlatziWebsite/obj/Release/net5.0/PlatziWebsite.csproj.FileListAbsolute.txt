@@ -38,3 +38,4 @@ D:\CAROLINA\DESARROLLO\CURSOS PLATZI\Curso de Web Apps y Logic Apps en Azure\Web
 D:\CAROLINA\DESARROLLO\CURSOS PLATZI\Curso de Web Apps y Logic Apps en Azure\WebApp\sitiowebplatzi\platziwebsite\obj\Release\net5.0\PlatziWebsite.pdb
 D:\CAROLINA\DESARROLLO\CURSOS PLATZI\Curso de Web Apps y Logic Apps en Azure\WebApp\sitiowebplatzi\platziwebsite\obj\Release\net5.0\PlatziWebsite.genruntimeconfig.cache
 D:\CAROLINA\DESARROLLO\CURSOS PLATZI\Curso de Web Apps y Logic Apps en Azure\WebApp\sitiowebplatzi\platziwebsite\obj\Release\net5.0\PlatziWebsite.csproj.CopyComplete
+D:\CAROLINA\DESARROLLO\CURSOS PLATZI\Curso de Web Apps y Logic Apps en Azure\WebApp\sitiowebplatzi\platziwebsite\bin\Release\net5.0\global.json
