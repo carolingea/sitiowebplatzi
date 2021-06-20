@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+NPqwDvkAiKy62Y8E+4m5oh/6DN9EpxD4zg9d6ngeK1uBuLi5h3Gozt5xDRKvw1vaFcGh/VBY7CRW/6TAIUdA==",
+  "dgSpecHash": "y7t0UC06ZHctIBkO59DGq7RCQET6r3Qai+9+ZW18a3KF3vJUaBAfxyxQRXuyEEKO/iyw+3ix65ynGLlQZdNDKw==",
   "success": true,
-  "projectFilePath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\PlatziWebSite\\PlatziWebsite.csproj",
+  "projectFilePath": "D:\\CAROLINA\\DESARROLLO\\CURSOS PLATZI\\Curso de Web Apps y Logic Apps en Azure\\WebApp\\sitiowebplatzi\\platziwebsite\\PlatziWebsite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
